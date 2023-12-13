@@ -1,0 +1,11 @@
+a {
+    display: block;
+    padding: 1%;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
