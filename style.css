@@ -6,10 +6,11 @@
 }
 
 a {
-    display: block;
+    display: inline-block;
     padding: 1%;
     text-decoration: none;
     color: black;
+    justify-content: space-evenly;
 }
 
 a:hover {
